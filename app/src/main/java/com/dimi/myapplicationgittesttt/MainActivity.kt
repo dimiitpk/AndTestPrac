@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("prva verzija")
         println("druga verzija")
         println("treca verzija")
+        var plant: Plant = Plant( "Ceercs", "sasasasa", "eastern redbud")
+        println(plant.toString())
     }
 }
