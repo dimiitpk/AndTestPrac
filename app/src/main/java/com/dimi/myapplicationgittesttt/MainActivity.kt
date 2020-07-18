@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("prva verzija")
         println("druga verzija")
+        println("treca verzija")
     }
 }
